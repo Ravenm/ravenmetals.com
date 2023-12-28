@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "name": "Choctaw Nation of Oklahoma",
+      "logo": "/images/choctaw.png",
+      "location": "Durant, Ok",
+      "jobs": [
+        {
+          "end": "present",
+          "hasChild": true,
+          "start": "03/2020",
+          "text": "Senior member of application team, responsible for modernizing legacy applications as well as developing greenfield projects. Acted in a mentorship role for associate developers, with a focus on developing processes and architectures for maintainable projects. Designing systems for Azure, utilizing Azure DevOps for CI/CD.",
+          "title": "Web Developer III"
+        },
+        {
+          "end": "03/2020",
+          "hasChild": false,
+          "start": "11/2018",
+          "text": "Senior member of application team, responsible for modernizing legacy applications. Acted in a mentorship role for associate developers. Utilized Azure DevOps for CI/CD.",
+          "title": "Senior Programmer Analyst"
+        }
+      ]
+    },
+    {
+      "name": "TheFinalScores.com",
+      "logo": "/images/logo.svg",
+      "location": "Remote",
+      "jobs": [
+        {
+          "end": "11/2018",
+          "hasChild": false,
+          "start": "01/2017",
+          "text": "Working with a statistical model to assess probability of game outcomes. Utilized flexible data collection and storage to feed a statistical model.",
+          "title": "Programmer"
+        }
+      ]
+    },
+    {
+      "name": "ProRoutes",
+      "logo": "/images/proroutes.png",
+      "location": "Wichita Falls, Tx",
+      "jobs": [
+        {
+          "end": "10/2018",
+          "hasChild": false,
+          "start": "10/2017",
+          "text": "Working with a team of developers to collect and analyze data from remote embedded systems. Payment processing through third party systems along with subscription based access.",
+          "title": "Project Lead Developer"
+        }
+      ]
+    },
+    {
+      "name": "Re-Rentals",
+      "logo": "/images/logo.svg",
+      "location": "Remote",
+      "jobs": [
+        {
+          "end": "03/2017",
+          "hasChild": true,
+          "start": "10/2016",
+          "text": "Working with laravel, vuejs, and elastic search to fully realize project.",
+          "title": "Programmer"
+        },
+        {
+          "end": "10/2016",
+          "hasChild": false,
+          "start": "08/2016",
+          "text": "Consulting on the state of an existing project. Review of feature requests and total progress on application.",
+          "title": "Consultant"
+        }
+      ]
+    },
+    {
+      "name": "Choctaw Nation of Oklahoma",
+      "logo": "/images/choctaw.png",
+      "location": "Durant, Ok",
+      "jobs": [
+        {
+          "end": "08/2016",
+          "hasChild": false,
+          "start": "06/2016",
+          "text": "Software development internship working with a team to create design and create applications.",
+          "title": "Intern"
+        }
+      ]
+    },
+    {
+      "name": "We Think Simple",
+      "logo": "/images/logo.svg",
+      "location": "Wichita Falls, Tx",
+      "jobs": [
+        {
+          "end": "10/2018",
+          "hasChild": false,
+          "start": "09/2015",
+          "text": "Working with a team of local and overseas developers to create systems for clients.",
+          "title": "Application Developer"
+        }
+      ]
+    },
+    {
+      "name": "Choctaw Nation of Oklahoma",
+      "logo": "/images/choctaw.png",
+      "location": "Durant, Ok",
+      "jobs": [
+        {
+          "end": "08/2015",
+          "hasChild": false,
+          "start": "07/2015",
+          "text": "Internship with application development team, creating a new application. Fullstack development (Asp.Net MVC, knockoutJS, MSSql) including requirements gathering",
+          "title": "Intern"
+        }
+      ]
+    }
+  ]
+}

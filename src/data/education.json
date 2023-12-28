@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "school": "Midwestern State University",
+      "location": "Wichita Falls, Tx",
+      "degree": "Bachelor of Science Computer Science"
+    },
+    {
+      "school": "Blinn Community College",
+      "location": "College Station, Tx",
+      "degree": "Associate of Science Computer Science"
+    },
+    {
+      "school": "Texas State Technical College",
+      "location": "Waco, Tx",
+      "degree": "Associate of Applied Science Automotive Technologies"
+    }
+  ]
+}
