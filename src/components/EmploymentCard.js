@@ -1,4 +1,3 @@
-
 function EmploymentCard(props) {
     return (
         <li className="grid grid-cols-[50px_1fr_130px] items-center">
