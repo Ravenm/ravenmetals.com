@@ -3,7 +3,7 @@ import {EmploymentHistory} from "./components/EmploymentHistory";
 
 function App() {
   return (
-      <div className="App grid lg:grid-cols-[repeat(auto-fit,_minmax(400px,_1fr))] lg:gap-x-52 my-5">
+      <div className="App grid lg:grid-cols-[1fr_1fr] lg:gap-x-52 my-5">
           <div className="lg:justify-self-start sm:order-1 lg:order-2 p-5">
               <div className="sticky top-10">
                   <h1 className="text-xl md:text-7xl font-bold ">Andrew Nash</h1>
