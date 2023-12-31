@@ -69,20 +69,6 @@
       ]
     },
     {
-      "name": "Choctaw Nation of Oklahoma",
-      "logo": "/images/choctaw.png",
-      "location": "Durant, Ok",
-      "jobs": [
-        {
-          "end": "08/2016",
-          "hasChild": false,
-          "start": "06/2016",
-          "text": "Software development internship working with a team to create design and create applications.",
-          "title": "Intern"
-        }
-      ]
-    },
-    {
       "name": "We Think Simple",
       "location": "Wichita Falls, Tx",
       "jobs": [
@@ -100,6 +86,13 @@
       "logo": "/images/choctaw.png",
       "location": "Durant, Ok",
       "jobs": [
+        {
+          "end": "08/2016",
+          "hasChild": true,
+          "start": "06/2016",
+          "text": "Software development internship working with a team to create design and create applications.",
+          "title": "Intern"
+        },
         {
           "end": "08/2015",
           "hasChild": false,
