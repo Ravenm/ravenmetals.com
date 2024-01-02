@@ -7,7 +7,6 @@ export function EmploymentHistory() {
             {employmentHistory.data.map((employer,index) =>
                 <EmployerCard employer={employer} index={index} key={`employer-${index}`}/>
             )}
-            <div className="h-20"></div>
         </div>
     );
 }

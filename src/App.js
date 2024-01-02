@@ -1,4 +1,4 @@
-import './App.css';
+import './styles/App.css';
 import {EmploymentHistory} from "./components/EmploymentHistory";
 import {Education} from "./components/Education";
 import {SocialLinks} from "./components/SocialLinks";
@@ -34,7 +34,9 @@ function App() {
                   <h1 className="text-xl md:text-xl font-bold py-5">Education</h1>
                   <Education/>
               </div>
-              <div className="h-[100svh] p-5 order-7 lg:col-span-2"></div>
+              <div className="h-[100svh] p-5 order-7 lg:col-span-2 justify-self-center items-center flex">
+                  <p>...More Soon</p>
+              </div>
           </div>
       </>
   );

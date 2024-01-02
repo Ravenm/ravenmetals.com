@@ -90,14 +90,14 @@
           "end": "08/2016",
           "hasChild": true,
           "start": "06/2016",
-          "text": "Software development internship working with a team to create design and create applications.",
+          "text": "Software development internship working within a team to update and create applications. A large focus on working as a group to develop features. Fullstack development (Asp.Net, AngularJs, MSSql) as well as SSRS reporting.",
           "title": "Intern"
         },
         {
           "end": "08/2015",
           "hasChild": false,
           "start": "07/2015",
-          "text": "Internship with application development team, creating a new application. Fullstack development (Asp.Net MVC, knockoutJS, MSSql) including requirements gathering",
+          "text": "Internship with application development team, creating a new application from an existing process. Fullstack development (Asp.Net MVC, knockoutJS, MSSql) including requirements gathering.",
           "title": "Intern"
         }
       ]
