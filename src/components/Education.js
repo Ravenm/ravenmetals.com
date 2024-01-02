@@ -1,9 +1,9 @@
 import education from "../data/education.json";
 
 export function Education() {
-    return <div className="">
+    return <div>
         {education.data.map((item, index) => (
-            <div key={item.id}
+            <div key={index}
                  style={{top: (10 * (index + 1))}}
                  className="border-slate-400 p-5 max-w-lg grid grid-cols-[1fr_150px] bg-[rgba(51,64,85)] rounded-lg my-2 sticky top-3 border border-solid shadow-xl shadow-slate-900">
                 <h1 className="font-bold">{item.school}</h1>
